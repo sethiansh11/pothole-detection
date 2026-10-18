@@ -1,0 +1,15 @@
+# Dataset: downloaded separately, not committed to Git
+data/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local secrets and configuration
+.env
+
+# Generated training outputs
+outputs/
+checkpoints/
