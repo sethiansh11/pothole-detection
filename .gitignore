@@ -13,3 +13,21 @@ venv/
 # Generated training outputs
 outputs/
 checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Local caches
+cache/
+
+# Datasets
+data/
+datasets/
+
+# Experiment outputs
+outputs/
+
+cache/
